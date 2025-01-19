@@ -73,7 +73,7 @@ These dependencies are automatically installed when you install the package.
 
 ## Author
 
-Sidharth Dhawan
+Archie Bajaj
 
 ## License
 
