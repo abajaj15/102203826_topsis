@@ -19,7 +19,7 @@ You can use this package from the command line to calculate TOPSIS scores and ra
 ### Command Line
 
 ```bash
-topsis_69 <Weights> <Impacts> <InputDataFile> <ResultFileName>
+topsis102203826 <Weights> <Impacts> <InputDataFile> <ResultFileName>
 ```
 
 ### Example
